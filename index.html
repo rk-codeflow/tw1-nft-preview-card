@@ -8,16 +8,28 @@
 
   <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
   
-  <!-- tailwind CDN -->
+  <!-- tailwind things  -->
   <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+      tailwind.config = {
+          theme: {
+              extend: {
+                  colors: {
+                      bodybg: 'hsl(217, 54%, 11%)',
+                      cardbg: 'hsl(216, 50%, 16%)',
+                  }
+              }
+          }
+      }
+  </script>
 </head>
-<body>
-    <main>
+<body class="bg-bodybg">
+    <main class="container mx-auto bg-cardbg p-12">
         <!-- image -->
         <div></div>
 
         <!-- top text -->
-        <div>
+        <div class="text-white">
             <h2 class="text-3xl font-bold">Equilibrium #3429</h2>
             <p>Our Equilibrium collection promotes balance and calm.</p>
         </div>
