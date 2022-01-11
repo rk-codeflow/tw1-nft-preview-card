@@ -7,6 +7,7 @@
   <title>NFT preview card component | Frontend Mentor</title>
 
   <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+
   
   <!-- tailwind things  -->
   <script src="https://cdn.tailwindcss.com"></script>
@@ -39,24 +40,24 @@
       }
   </script>
 </head>
-<body class="bg-bodybg">
+<body class="bg-bodybg font-mono">
     <main class="flex justify-center items-center h-screen">
         <div class="bg-cardbg rounded-xl p-5 font-medium w-1/2 max-w-xs min-w-[285px]">
             <!-- image -->
-            <div class="relative  cursor-pointer">
+            <div class="relative cursor-pointer">
                 <div class="xs:h-72">
-                    <img src="./images/image-equilibrium.jpg" class="object-cover h-full w-full" alt="This is the Equilibrium image">
+                    <img src="./images/image-equilibrium.jpg" class="object-cover h-full w-full rounded-lg" alt="This is the Equilibrium image">
                 </div>
     
-                <div class="absolute top-0 left-0 right-0 bottom-0 opacity-0 flex items-center justify-center">
-                    <img src="./images/icon-view.svg" alt="eye icon" class="">
+                <div class="absolute top-0 left-0 right-0 bottom-0 bg-cyan opacity-0 flex items-center justify-center active:opacity-80 rounded-lg">
+                    <img src="./images/icon-view.svg" alt="eye icon">
                 </div>
             </div>
 
             <!-- top text -->
             <div class="my-5">
                 <h2 class="text-xl font-medium text-white active:text-cyan cursor-pointer">Equilibrium #3429</h2>
-                <p class="text-gray-400 mt-3 font-normal">Our Equilibrium collection promotes balance and calm.</p>
+                <p class="text-gray-400 mt-3 font-normal text-base">Our Equilibrium collection promotes balance and calm.</p>
             </div>
 
             <!-- count flex -->

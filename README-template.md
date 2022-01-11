@@ -33,8 +33,6 @@ Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to t
 
 Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
 
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
-
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
@@ -47,10 +45,11 @@ I have started learning [Tailwind CSS](https://tailwindcss.com/) and the best wa
 
 - Built with Tailwind CSS
 - Flexbox
+- Responsive 
 
 ### What I learned
 - I learned how to install Tailwind in our project.
 - It is better to install via Tailwind CLI, not via CDN - my understanding.
 - Knew how to customize the tailwind config file and knew a lot of classes.
-- Responsiveness in Tailwind
+- Understood different states like active, hover etc Tailwind
 
