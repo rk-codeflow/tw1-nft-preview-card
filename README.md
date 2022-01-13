@@ -52,5 +52,5 @@ My learning from this first project which is build in Tailwind
 - I learned how to install Tailwind in our project.
 - It is better to install via Tailwind CLI, not via CDN - my understanding.
 - Knew how to customize the tailwind config file like customizing colors, fonts etc.
-- Understood different states like active, hover etc Tailwind
-
+- Understood handling different states like active, hover etc on Tailwind
+- Though I had been using Netlify to host sites I was unaware that the live URL is updated automatically when we push our code on github. On searching methods how to     automatically update live URL, I came to know Netlify automatically updates this.
