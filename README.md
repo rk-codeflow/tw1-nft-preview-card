@@ -48,8 +48,9 @@ I have started learning [Tailwind CSS](https://tailwindcss.com/) and the best wa
 - Responsive 
 
 ### What I learned
+My learning from this first project which is build in Tailwind
 - I learned how to install Tailwind in our project.
 - It is better to install via Tailwind CLI, not via CDN - my understanding.
-- Knew how to customize the tailwind config file and knew a lot of classes.
+- Knew how to customize the tailwind config file like customizing colors, fonts etc.
 - Understood different states like active, hover etc Tailwind
 
