@@ -25,18 +25,13 @@ I decided to go with CDN as it is less time consuming and I could quickly set up
 However I found it less efficient as Tailwind Intellisense (VS Code extension which suggests different classes base on what we type) does not work. 
 ### Screenshot
 
-![](./screenshot.jpg)
+![NFT-CARD](./images/nft-screenshot.png)
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/rk-codeflow/tw1-nft-preview-card)
+- Live Site URL: [Netlify](https://nft-card-componentt.netlify.app/)
 
 
 ### Built with
