@@ -22,7 +22,7 @@ Since I have just started learning Tailwind CSS, installation part was a bit tou
 
 I decided to go with CDN as it is less time consuming and I could quickly set up the project. 
 
-However I found it less efficient as Tailwind Intellisense (VS Code extension which suggests different classes base on what we type) does not work. 
+However I found it less efficient as Tailwind Intellisense (VS Code extension which suggests different classes based on what we type) does not work. 
 ### Screenshot
 
 ![NFT-CARD](./images/nft-screenshot.png)
